@@ -12,7 +12,7 @@ Archivo Docker: https://drive.google.com/file/d/1gdYP1OwiHTyloOJQSKbvf2veFvZFIGi
 
 Repositorio GitHub: https://github.com/juandid09/Mlflow.git
 
-Documentación: https://drive.google.com/file/d/1PR4EILWrFV_9LAV1msBqLS6NWhyEv2YE/view?usp=drive_link
+Documentación: https://drive.google.com/file/d/1NpFJNp8MOTHsqu9GI8Aff77JhtrIaVWy/view?usp=sharing
 
 DataSet: https://drive.google.com/file/d/1FLpjSGNMH06QvHsQgjSPivrjjfd97wVL/view
 
