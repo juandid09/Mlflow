@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/855949271339512432/7bb8969f0578412eb4d5d1b58332f8da/artifacts
+end_time: 1741223972665
+entry_point_name: ''
+experiment_id: '855949271339512432'
+lifecycle_stage: active
+run_id: 7bb8969f0578412eb4d5d1b58332f8da
+run_name: calm-fox-783
+run_uuid: 7bb8969f0578412eb4d5d1b58332f8da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741223703399
+status: 3
+tags: []
+user_id: darley

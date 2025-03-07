@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/855949271339512432/34a07a428bd94e46b50907b18f95b1bb/artifacts
+end_time: 1741224019669
+entry_point_name: ''
+experiment_id: '855949271339512432'
+lifecycle_stage: active
+run_id: 34a07a428bd94e46b50907b18f95b1bb
+run_name: grandiose-robin-498
+run_uuid: 34a07a428bd94e46b50907b18f95b1bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741223972680
+status: 3
+tags: []
+user_id: darley

@@ -1,0 +1,30 @@
+# Ignorar archivos y directorios de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Ignorar archivos de configuración de entorno virtual
+venv/
+.env
+
+# Ignorar archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Ignorar archivos de caché de pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignorar archivos de datos grandes que no son necesarios para la construcción
+*.csv
+*.tar
+*.zip
+
+# Ignorar archivos de logs
+*.log
+
+
+# Ignorar otros archivos innecesarios
+*.md
