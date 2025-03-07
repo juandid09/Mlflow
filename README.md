@@ -37,7 +37,7 @@ Construcción de la Imagen Docker
 -Validar con: docker ps
 
 ## Licencia
-se publica bajo la licencia la cual esta disponible aqui: [LICENSE.py](https://github.com/juandid09/analisis-sentimientos/blob/main/LICENSE)
+se publica bajo la licencia la cual esta disponible aqui: [LICENSE.py](https://github.com/juandid09/Mlflow/blob/main/LICENSE)
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Por favor, sigue las mejores prácticas de desarrollo y realiza un pull request con los cambios propuestos.
