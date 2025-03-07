@@ -31,9 +31,13 @@ DataSet: https://drive.google.com/file/d/1FLpjSGNMH06QvHsQgjSPivrjjfd97wVL/view
 
 ## Implementación en Docker
 Construcción de la Imagen Docker
+
 -Se debe tener Docker Desktop abierto y ejecutar: docker build -t mlflow_project .
+
 -Verificar que la imagen se creó correctamente con: docker images
+
 -Ejecutar el Contenedor: docker run -d --restart always -p 5000:5000 mlflow_project mlflow server --host 0.0.0.0
+
 -Validar con: docker ps
 
 ## Licencia
