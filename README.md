@@ -16,6 +16,9 @@ Documentación: https://drive.google.com/file/d/1NpFJNp8MOTHsqu9GI8Aff77JhtrIaVW
 
 DataSet: https://drive.google.com/file/d/1FLpjSGNMH06QvHsQgjSPivrjjfd97wVL/view
 
+## Observaciones 
+en caso de clonar el repositiorio y indique alguna alvertencia utilizar git lfs antes de clonar el repostiorio. 
+
 ## Modelos de Entrenamiento
 - LightGBM (LGB): Algoritmo de gradient boosting optimizado para velocidad y eficiencia en grandes volúmenes de datos.
 - Regresión Logística: Modelo estadístico utilizado para clasificación binaria.
