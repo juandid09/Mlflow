@@ -38,7 +38,7 @@ Construcción de la Imagen Docker
 
 -Ejecutar el Contenedor: docker run -d --restart always -p 5000:5000 mlflow_project mlflow server --host 0.0.0.0
 
--Validar con: docker ps
+-Validar con: docker ps, si el contenedor esta coriendo, sino volverlo a crear/reiniciar. 
 
 ## Licencia
 se publica bajo la licencia la cual esta disponible aqui: [LICENSE.py](https://github.com/juandid09/Mlflow/blob/main/LICENSE)
