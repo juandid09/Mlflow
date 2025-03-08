@@ -4,7 +4,7 @@ Este repositorio contiene un proyecto de aprendizaje automático utilizando Mlfl
 ## Dataset Utilizado
 El dataset de entrenamiento utilizado es US Accidents, el cual contiene información sobre accidentes de tráfico en 49 estados de EE.UU. desde febrero de 2016 hasta diciembre de 2021. Los datos fueron recopilados en tiempo real a través de diversas APIs, sensores viales, cámaras de tráfico y agencias de aplicación de la ley.
 Este conjunto contiene aproximadamente 2.8 millones de registros de accidentes, incluyendo información sobre ubicación, tiempo, condiciones meteorológicas y características de las carreteras.
-Url del dataset: https://drive.google.com/file/d/1FLpjSGNMH06QvHsQgjSPivrjjfd97wVL/view
+Url del dataset,el cual deberia estar a nivel del directorio principal: https://drive.google.com/file/d/1FLpjSGNMH06QvHsQgjSPivrjjfd97wVL/view
 
 ## Recursos del Proyecto
 
